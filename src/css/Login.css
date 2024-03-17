@@ -1,0 +1,15 @@
+#signGoogleDiv iframe{
+    margin: 0 !important;
+    width: 100% !important;
+}
+
+#signGoogleDiv iframe #container{
+    padding: 0 !important;
+    width: 100% !important;
+}
+
+#signGoogleDiv iframe #container div[role='button']{
+    max-width: none !important;
+    min-width: none !important;
+    width: 100% !important;
+}

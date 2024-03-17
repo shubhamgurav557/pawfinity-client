@@ -1,0 +1,43 @@
+.highlightText {
+    color: #feb434 !important;
+}
+
+.lightColor {
+    opacity: .7;
+}
+
+.fillColor {
+    fill: #feb434 !important;
+}
+
+.separatorcontainer {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.separatorline {
+    flex: 1;
+    border-top: 1px solid #fff;
+}
+
+.separatortext {
+    padding: 0 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.darkMode{
+    color: #fff;
+    background-color: #191919;
+    transition: linear;
+}
+
+.lightMode{
+    background-color: #fff;
+    transition: linear;
+}
+
+.darkColor{
+    color: #191919 !important;
+}

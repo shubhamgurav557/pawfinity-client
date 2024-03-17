@@ -1,0 +1,11 @@
+@media (max-width: 768px){
+    .Typewriter span {
+        font-size: 1.3em !important;
+    }
+}
+
+@media (max-width: 440px) {
+    .Typewriter span {
+        font-size: 1em !important;
+    }
+}
